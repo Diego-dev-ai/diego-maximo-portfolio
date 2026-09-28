@@ -1,4 +1,4 @@
-@tailwind base;
+/@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -29,7 +29,7 @@ button, input, textarea { font: inherit; }
     radial-gradient(circle at 80% 0%, rgba(76,174,189,.12), transparent 28rem),
     #f5f8f8;
 }
-.dark .site-shell { background: radial-gradient(circle at 80% 0%, rgba(47,143,159,.16), transparent 28rem), #0d1518; }
+.dark .site-shell { background: radial-gradient(circle at 80% 0%, rgba(18,72,125,.16), transparent 28rem), #07090d; }
 
 .layout {
   width: min(1420px, calc(100% - 48px));
@@ -54,7 +54,7 @@ button, input, textarea { font: inherit; }
   box-shadow: 0 20px 60px -35px rgba(15,23,42,.35);
   backdrop-filter: blur(16px);
 }
-.dark .profile-card { background: rgba(18,29,33,.9); border-color: #263a40; }
+.dark .profile-card { background: rgba(12,18,28,.94); border-color: #1d3552; }
 
 .eyebrow {
   color: #2f8f9f;
@@ -103,8 +103,8 @@ button, input, textarea { font: inherit; }
   cursor: pointer;
 }
 .btn:hover, .outline-btn:hover { transform: translateY(-2px); }
-.btn-primary { background: #245f6b; color: white; }
-.btn-primary:hover { background: #214f59; }
+.btn-primary { background: #0b4f8a; color: white; }
+.btn-primary:hover { background: #0d67ad; }
 .btn-secondary, .outline-btn { border-color: #d7e3e4; background: transparent; color: #36545a; }
 .dark .btn-secondary, .dark .outline-btn { border-color: #30464c; color: #c0d0d3; }
 
