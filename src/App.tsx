@@ -185,9 +185,9 @@ function Projects() {
               <span className="project-arrow"><ArrowUpRight size={20} /></span>
             </div>
             <div className="p-5">
-              <span className="tag">{project.category}</span>
-              <h3 className="mt-3">{project.title}</h3>
-              <p className="text-muted text-sm mt-2 leading-6">{project.detail}</p>
+  <span className="tag">{project.category}</span>
+  <span className="tag">{project.status}</span>
+  <h3 className="mt-3">{project.title}</h3>
             </div>
           </a>
         ))}
