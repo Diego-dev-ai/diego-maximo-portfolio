@@ -67,6 +67,7 @@ export const content = {
     detail: 'Projeto de sistema para salão de beleza, desenvolvido durante meus estudos em ferramentas no-code, inteligência artificial e desenvolvimento de aplicações.',
     image: 'https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1200&q=80',
     url: 'https://beleza-central--diegosmaximos.replit.app/studio-belleza/',
+    status: 'Em desenvolvimento',
   },
   {
     title: 'Projeto Lovable 1',
@@ -74,6 +75,7 @@ export const content = {
     detail: 'Aplicação desenvolvida utilizando Lovable, explorando criação de soluções digitais com inteligência artificial.',
     image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80',
     url: 'https://dashborddevendasdiego.lovable.app/',
+    status: 'Em desenvolvimento',
   },
   {
     title: 'Projeto Lovable 2',
@@ -81,6 +83,7 @@ export const content = {
     detail: 'Projeto desenvolvido com Lovable como parte da minha evolução prática em desenvolvimento de aplicações com inteligência artificial.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
     url: 'https://lovable.dev/projects/0268a517-7429-405b-a1f7-328b36deacad',
+    status: 'Em desenvolvimento',
   },
 ],
 
