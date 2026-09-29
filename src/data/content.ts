@@ -25,7 +25,7 @@ export const content = {
   },
 
   stats: [
-    { value: 3, suffix: '+', label: 'Projetos' },
+    { value: 4, suffix: '+', label: 'Projetos' },
     { value: 1, suffix: '+', label: 'Anos de estudos em IA' },
     { value: 3, suffix: '', label: 'Experiências profissionais' },
     { value: 10, suffix: '+', label: 'Anos em Florianópolis' },
