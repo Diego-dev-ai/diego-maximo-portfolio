@@ -83,20 +83,26 @@ export const content = {
   },
 ],
 
-  education: [
-    {
-      title: 'Lovable e Supabase',
-      institution: 'No Code Startup',
-      period: 'Cursando',
-      description: 'Estudos voltados à criação de aplicações, prototipação, banco de dados e desenvolvimento no-code/low-code.',
-    },
-    {
-      title: 'Formação complementar em tecnologia',
-      institution: 'Em atualização',
-      period: '—',
-      description: 'Área reservada para adicionar novos cursos e certificações.',
-    },
-  ],
+ education: [
+  {
+    title: 'Formação Vibe Builder',
+    institution: 'No Code Startup',
+    period: 'Finalizando',
+    description: 'Formação voltada à criação de aplicações e soluções digitais utilizando ferramentas no-code, inteligência artificial e desenvolvimento orientado por IA.',
+  },
+  {
+    title: 'Agentic Builder',
+    institution: 'No Code Startup',
+    period: 'A iniciar',
+    description: 'Formação voltada à construção de soluções utilizando agentes e inteligência artificial.',
+  },
+  {
+    title: 'Agentes 2.0',
+    institution: 'No Code Startup',
+    period: 'A iniciar',
+    description: 'Formação voltada ao aprofundamento em agentes de inteligência artificial e automação.',
+  },
+],
 
   tools: [
     { name: 'Lovable', category: 'Vibe coding' },
