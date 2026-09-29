@@ -59,6 +59,7 @@ export const content = {
     detail: 'Meu site profissional para apresentar minha trajetória, experiência, projetos e formação em tecnologia.',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80',
     url: 'https://www.diegomaximo.com.br/',
+    status: 'Concluído',
   },
   {
     title: 'Boho Studio',
