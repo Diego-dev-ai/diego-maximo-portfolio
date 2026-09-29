@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import {
   ArrowUpRight, BriefcaseBusiness, Check, ChevronDown, Code2, Download,
   Github, GraduationCap, Instagram, Linkedin, Mail, MapPin, Menu, Moon,
-  Phone, Send, Sparkles, Sun, UserRound, X
+  Phone, Send, Sparkles, Sun, X
 } from 'lucide-react'
 import { content } from './data/content'
 
@@ -74,19 +74,12 @@ function Profile({ dark, setDark }: { dark: boolean; setDark: (v: boolean) => vo
       </div>
 
       <div className="relative">
-        <img
-          src={p.photo}
-          alt={`Foto de ${p.name}`}
-          className="profile-photo"
-          onError={(e) => {
-            e.currentTarget.style.display = 'none'
-            e.currentTarget.nextElementSibling?.classList.remove('hidden')
-          }}
-        />
-        <div className="profile-fallback hidden">
-          <UserRound size={58} />
-        </div>
-      </div>
+  <img
+    src={p.photo}
+    alt={`Foto de ${p.name}`}
+    className="profile-photo"
+  />
+</div>
 
       <div className="availability"><span />{p.availability}</div>
 
