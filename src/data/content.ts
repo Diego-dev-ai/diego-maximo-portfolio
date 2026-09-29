@@ -53,35 +53,35 @@ export const content = {
   ],
 
   projects: [
-    {
-      title: 'Projeto em IA',
-      category: 'Inteligência Artificial',
-      detail: 'Projeto demonstrativo — substitua por seu projeto publicado.',
-      image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80',
-      url: 'https://github.com/',
-    },
-    {
-      title: 'Automação Digital',
-      category: 'AI Coding',
-      detail: 'Projeto demonstrativo para apresentar uma solução digital.',
-      image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
-      url: 'https://github.com/',
-    },
-    {
-      title: 'Aplicação Web',
-      category: 'Vibe Coding',
-      detail: 'Placeholder para seu próximo projeto web.',
-      image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80',
-      url: 'https://github.com/',
-    },
-    {
-      title: 'Projeto Adicional',
-      category: 'Tecnologia',
-      detail: 'Edite este cartão em src/data/content.ts.',
-      image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80',
-      url: 'https://github.com/',
-    },
-  ],
+  {
+    title: 'Meu Portfólio',
+    category: 'Portfólio profissional',
+    detail: 'Meu site profissional para apresentar minha trajetória, experiência, projetos e formação em tecnologia.',
+    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80',
+    url: 'https://www.diegomaximo.com.br/',
+  },
+  {
+    title: 'Boho Studio',
+    category: 'Sistema para salão de beleza',
+    detail: 'Projeto de sistema para salão de beleza, desenvolvido durante meus estudos em ferramentas no-code, inteligência artificial e desenvolvimento de aplicações.',
+    image: 'https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1200&q=80',
+    url: 'https://beleza-central--diegosmaximos.replit.app/studio-belleza/',
+  },
+  {
+    title: 'Projeto Lovable 1',
+    category: 'Vibe Coding',
+    detail: 'Aplicação desenvolvida utilizando Lovable, explorando criação de soluções digitais com inteligência artificial.',
+    image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80',
+    url: 'https://lovable.dev/projects/2a588833-365f-5771-b3c2-75f2024fe583',
+  },
+  {
+    title: 'Projeto Lovable 2',
+    category: 'Vibe Coding',
+    detail: 'Projeto desenvolvido com Lovable como parte da minha evolução prática em desenvolvimento de aplicações com inteligência artificial.',
+    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
+    url: 'https://lovable.dev/projects/0268a517-7429-405b-a1f7-328b36deacad',
+  },
+],
 
   education: [
     {
